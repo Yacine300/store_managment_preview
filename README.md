@@ -36,7 +36,7 @@ The **App Store Management System** is a comprehensive solution tailored for pri
 ## Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](assets/admin_dashboard.png)
+![Admin Dashboard](https://github.com/Yacine300/store_managment_preview/blob/main/Capture%20d'%C3%A9cran%202024-08-18%20181115.png)
 
 ### Product Management
 ![Product Management](assets/product_management.png)
