@@ -1,6 +1,6 @@
 # store_managment_preview
 
-![App Logo](https://github.com/Yacine300/store_managment_preview/edit/main/store_managment_preview.png)
+![App Logo](https://github.com/Yacine300/store_managment_preview/store_managment_preview.png)
 
 ## Overview
 The **App Store Management System** is a comprehensive solution tailored for private businesses to manage their store operations efficiently. The application provides tools and features for managing products, tracking sales, and overseeing administrative and employee tasks.
