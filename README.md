@@ -46,9 +46,9 @@ The **App Store Management System** is a comprehensive solution tailored for pri
 ## Installation
 
 ### Prerequisites
-- [Node.js](https://nodejs.org/) (for backend services)
+
 - [Flutter](https://flutter.dev/) (for mobile app development)
-- [MySQL](https://www.mysql.com/) (for database management)
+
 
 ### Steps
 1. Clone the repository:
